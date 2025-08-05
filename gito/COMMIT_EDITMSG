@@ -1,0 +1,8 @@
+Enable fine-grained control over module permissions for different roles
+
+Implements PATCH endpoint `/api/super-admin/roles/:roleId/modules/:moduleId` and database logic to update granular module permissions.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 9b24da64-ca4d-4435-880b-401f044eddbe
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/49d5af56-69d0-4d51-92b0-e589307ebf85/9b24da64-ca4d-4435-880b-401f044eddbe/CHyqF3w
